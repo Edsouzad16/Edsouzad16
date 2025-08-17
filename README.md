@@ -1,6 +1,6 @@
 👋 Oi, sou @Edsouzad16
 - 👀 Estou interessado em: Aprender mais
-- 🌱 Atualmente estou aprendendo: Java Script
+- 🌱 Atualmente estou aprendendo: Python
 - 💞️ Estou procurando colaborar em ...
 - 📫 Como chegar até mim: intagram, aqui.
 - 😄 Pronomes: ...
